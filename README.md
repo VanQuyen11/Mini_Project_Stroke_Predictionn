@@ -52,7 +52,7 @@ The dataset contains medical and demographic information of patients used to pre
 
 # Project Structure
 
-```text
+'''text
 stroke-prediction-project/
 │
 ├── data/
@@ -69,6 +69,8 @@ stroke-prediction-project/
 ├── requirements.txt
 │
 └── README.md
+
+
 
 Module 1: NumPy Tasks
 
