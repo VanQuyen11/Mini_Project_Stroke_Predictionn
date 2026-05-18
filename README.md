@@ -71,6 +71,10 @@ stroke-prediction-project/
 
 ```
 
+
+# Module 
+
+
 Module 1: NumPy Tasks
 
 Implemented using NumPy only.
@@ -130,7 +134,7 @@ Data visualization
 Correlation heatmap
 Installation
 
-Install required libraries:
+# Install required libraries:
 
 pip install -r requirements.txt
 Requirements
@@ -138,14 +142,24 @@ numpy
 pandas
 matplotlib
 scikit-learn
-Run the Project
+
+
+#Run the Project
+
+
 Run NumPy Module
+
 python src/numpy_task.py
+
 Run Mathematics + ML Module
+
 python src/math_task.py
+
 Run Pandas Module
+
 python src/pandas_task.py
-Machine Learning Workflow
+
+# Machine Learning Workflow
 
 The machine learning pipeline includes:
 
@@ -168,7 +182,7 @@ Data preprocessing techniques
 Model evaluation methods
 Future Improvements
 
-Author
+#Author
 Mini Project – Stroke Prediction Analysis
 AI Engineer student quandskill K9
 
