@@ -86,6 +86,9 @@ Euclidean distance matrix
 Cosine similarity
 PCA implementation
 Batch processing
+
+
+
 Module 2: Mathematics for AI + Machine Learning
 
 This module combines mathematical concepts with machine learning models.
@@ -107,6 +110,9 @@ Accuracy
 Confusion Matrix
 Classification Report
 Feature Importance
+
+
+
 Module 3: Pandas Data Analysis
 
 Implemented using Pandas and Matplotlib.
