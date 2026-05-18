@@ -2,30 +2,29 @@
 
 ## Project Overview
 
-This mini project focuses on analyzing and predicting stroke risk using the Stroke Prediction Dataset.  
-The project applies fundamental concepts of:
+This mini project focuses on analyzing and predicting stroke risk using the Stroke Prediction Dataset.
 
+The project applies:
 - NumPy
-- Mathematics for AI
 - Pandas
+- Mathematics for AI
 - Machine Learning using Scikit-learn
 
-The main objective is to practice:
-- numerical computing
-- data preprocessing
-- statistics
-- linear algebra
-- feature engineering
-- machine learning workflows
-- data visualization
+Main objectives:
+- Data preprocessing
+- Statistical analysis
+- Numerical computing
+- Linear algebra for AI
+- Data visualization
+- Machine learning workflow implementation
 
 ---
 
-# Dataset Information
+## Dataset Information
 
 The dataset contains medical and demographic information of patients used to predict stroke risk.
 
-## Main Features
+### Main Features
 
 | Feature | Description |
 |---|---|
@@ -35,12 +34,12 @@ The dataset contains medical and demographic information of patients used to pre
 | hypertension | Hypertension status |
 | heart_disease | Heart disease status |
 | smoking_status | Smoking habits |
-| work_type | Type of work |
-| stroke | Target variable (0 = No Stroke, 1 = Stroke) |
+| work_type | Working category |
+| stroke | Target variable |
 
 ---
 
-# Technologies Used
+## Technologies Used
 
 - Python
 - NumPy
@@ -50,9 +49,9 @@ The dataset contains medical and demographic information of patients used to pre
 
 ---
 
-# Project Structure
+## Project Structure
 
-'''text
+```text
 stroke-prediction-project/
 │
 ├── data/
@@ -70,7 +69,7 @@ stroke-prediction-project/
 │
 └── README.md
 
-
+```
 
 Module 1: NumPy Tasks
 
