@@ -134,10 +134,12 @@ Data visualization
 Correlation heatmap
 Installation
 
-# Install required libraries:
+#Install required libraries:
 
 pip install -r requirements.txt
+
 Requirements
+
 numpy
 pandas
 matplotlib
@@ -145,7 +147,6 @@ scikit-learn
 
 
 #Run the Project
-
 
 Run NumPy Module
 
@@ -159,7 +160,7 @@ Run Pandas Module
 
 python src/pandas_task.py
 
-# Machine Learning Workflow
+#Machine Learning Workflow
 
 The machine learning pipeline includes:
 
